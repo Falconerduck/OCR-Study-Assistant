@@ -31,7 +31,3 @@ Students often face challenges organizing and summarizing handwritten notes, mak
 - Note editor and AI summarization interface
 - Interactive Flashcard screen
 - Past notes access with flashcards and summaries
-
-## GitHub Integration
-- README file for general overview
-- GitHub Wiki for detailed documentation and ongoing updates
