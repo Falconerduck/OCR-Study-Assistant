@@ -34,7 +34,13 @@ Students often face challenges organizing and summarizing handwritten notes, mak
 
 ---------------------
 
-APK File can be found here: https://drive.google.com/file/d/1DWgIaMU1ALaIfxEuEmsmtMqFP2QQQS_L/view?usp=drive_link
+The APK File can be found here:
+
+![image](https://github.com/user-attachments/assets/e5000317-2bc1-47c4-a27b-b3f493f9163a)
+
+Or at the following link: 
+
+https://drive.google.com/file/d/1DWgIaMU1ALaIfxEuEmsmtMqFP2QQQS_L/view?usp=drive_link
 
 ---------------------
 
